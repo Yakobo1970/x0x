@@ -1,0 +1,5 @@
+build/
+dist_installer/
+*.wav
+*.mid
+.vs/
